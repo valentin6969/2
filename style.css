@@ -1,0 +1,13 @@
+html{background-color: rgb(247, 236, 178);}
+table, th, td {align-self: center ; border-color: rgb(255, 0, 0)  ;border: 1px solid grey;
+    text-align:center; text-decoration-color: azure; font-size: 30;
+   }
+h1{background-color: rgb(0, 0, 0); color: rgb(241, 241, 241); text-align:center;}
+.block{background: #000;
+    border: 8px solid #4f4f4f;
+    font-family: monospace;
+    line-height: 150px;
+    font-size: .8em;
+    color: #fff;
+    flex: 1;}
+.gradient { background: linear-gradient(rgb(255, 238, 0), rgb(233, 162, 255)); }
